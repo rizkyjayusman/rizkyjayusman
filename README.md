@@ -5,4 +5,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyjayusman&hide_border=true&layout=compact&card_width=296)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/humanbl00m?theme=nord&font=Stick%20No%20Bills&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rizkyjayusman?theme=nord&font=Stick%20No%20Bills&ext=activity)
